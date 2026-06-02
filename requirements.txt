@@ -1,0 +1,11 @@
+streamlit
+sentence-transformers
+scikit-learn
+torch
+PyMuPDF
+python-docx
+spacy
+google-genai
+python-dotenv
+plotly
+reportlab
